@@ -1,0 +1,31 @@
+body {
+    font-family: Times New Roman;
+    padding: 30px;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: #cacd93;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+input, select, button {
+    margin: 10px 0;
+    padding: 10px;
+}
+
+button {
+    background: rgb(217, 97, 226);
+    color: rgb(185, 103, 251);
+    border: none;
+}
+
+table {
+    background: rgb(126, 47, 217);
+    width: 100%;
+}
